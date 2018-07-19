@@ -1,7 +1,7 @@
 from debugHelper import *
 from FileManager import *
 
-
+"""test"""
 class Game:
     '''Classe de gestion du fonctionnement du jeu'''
 
